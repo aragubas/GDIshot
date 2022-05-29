@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Debugging stuffs
+*.pdb
+
+/GDIshot/x64/
+/GDIshot/x64/Debug/
+/.vs/GDIshot
